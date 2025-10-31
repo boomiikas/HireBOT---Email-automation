@@ -177,22 +177,10 @@ npm run test
 
 ---
 
-## 🧭 Contributors
-
-| Member | Responsibility |
-|--------|-----------------|
-| Member 1 | Middleware & Security |
-| Member 2 | Database Models & Initialization |
-| Member 3 | Backend APIs, LLM & Services |
-| Member 4 | Frontend UI, Routing, Components |
-| Member 5 | Testing & Documentation |
-
----
-
 ## 📜 License
 
 This project is licensed under the **MIT License**.
 
 ---
 
-### 🚀 Developed with ❤️ by Team HireBOT
+### 🚀 Developed by Boomika S
