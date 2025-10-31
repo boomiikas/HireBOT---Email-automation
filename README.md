@@ -3,7 +3,7 @@
 The project HireBOT aims to automate the process of communication between a college placement cell and multiple HR representatives from various companies. 
 The system automatically sends invitation mails to companies with final-year student details categorized by department. It monitors email responses, segregates them into replied and unreplied, and sends appropriate follow-up or acknowledgment mails until the company provides a job description (JD). 
 By integrating AI with the Model Context Protocol (MCP), HireBOT ensures intelligent mail classification, context-aware responses, and reliable automation, reducing manual workload and increasing placement outreach efficiency.
-after human intervention only , it has to send mail.Do these problem statement and abstract match with these folder structure or not.
+after human intervention only , it has to send mail.
 
 ---
 
