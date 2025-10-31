@@ -37,6 +37,7 @@ pydantic==2.12.3
 pydantic_core==2.41.4
 PyJWT==2.10.1
 python-dateutil==2.9.0.post0
+python-dotenv==1.2.1
 python-jose==3.5.0
 realtime==2.22.4
 redis==7.0.1
